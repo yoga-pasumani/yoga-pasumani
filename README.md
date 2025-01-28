@@ -2,8 +2,7 @@
 - Pursuing MSc Data Analytics in Bharathiar Univeristy
 - 🌱 Im learn Python
 - 💞️ I’m looking to Job in Data Analyst
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 😄 Technologies I can work with Python
 - ⚡ Fun fact: ...
 
 <!---
